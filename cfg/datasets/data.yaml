@@ -1,0 +1,6 @@
+train: D:\PycharmProjects\YOLOv8.2\ultralytics\assets\lung\train
+val: D:\PycharmProjects\YOLOv8.2\ultralytics\assets\lung\valid
+test: D:\PycharmProjects\YOLOv8.2\ultralytics\assets\lung\test
+
+nc: 1
+names: ['nodule']
